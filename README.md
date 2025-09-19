@@ -102,7 +102,7 @@
         • Deployed a Python application to a Kubernetes cluster on EC2 instances.<br>
         • Used GitHub Webhooks for production-ready deployments on every commit.
       </td>
-      <td><a href="YOUR_DEMO_LINK_HERE" target="_blank"><strong>View Demo 🎥</strong></a></td>
+      <td><a href="https://www.loom.com/share/109edef5cfc54053a69b4a5ec9fb8222" target="_blank"><strong>View Demo 🎥</strong></a></td>
     </tr>
     <tr>
       <td><strong>CI/CD with Jenkins, Minikube & DockerHub</strong></td>
@@ -111,7 +111,7 @@
         • Deployed to a local Kubernetes cluster using Minikube.<br>
         • Integrated Git and automated DockerHub image pushes.
       </td>
-      <td><a href="YOUR_DEMO_LINK_HERE" target="_blank"><strong>View Demo 🎥</strong></a></td>
+      <td><a href="https://www.loom.com/share/eb0a14dadabd433b8f2774f32471d72a" target="_blank"><strong>View Demo 🎥</strong></a></td>
     </tr>
     <tr>
       <td><strong>Automated Deployment using AWS Native Tools</strong></td>
