@@ -4,16 +4,16 @@
 
   <br/>
 
-  [cite_start]<h1 align="center">Hi there, I'm <span style="color:#6C63FF;">Jefrin Peter M</span>! [cite: 1]
+  <h1 align="center">Hi there, I'm <span style="color:#6C63FF;">Jefrin Peter M</span>!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   </h1>
   
   <h3 align="center">🚀 DevOps Engineer | Python Automation Specialist | Cloud-Native Enthusiast 🚀</h3>
 
   <p align="center">
-    [cite_start]I am a DevOps Engineer from Coimbatore, Tamil Nadu [cite: 2][cite_start], skilled in CI/CD, Docker, Kubernetes, and AWS[cite: 5].
+    I am a DevOps Engineer from Coimbatore, Tamil Nadu, skilled in CI/CD, Docker, Kubernetes, and AWS.
     <br />
-    [cite_start]With a strong foundation in Python, I build automated, scalable, and reliable cloud-native solutions[cite: 5, 6].
+    With a strong foundation in Python, I build automated, scalable, and reliable cloud-native solutions.
   </p>
   
   <div align="center">
@@ -21,7 +21,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://github.com/Jeffy287" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="httpshttps://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
     <a href="mailto:jefrinpeter287@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -35,26 +35,26 @@
 
 <p align="center">
   <strong>Languages:</strong><br/>
-  [cite_start]<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> [cite: 10]
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <br/><br/>
   <strong>DevOps & CI/CD:</strong><br/>
-  [cite_start]<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> [cite: 13]
-  [cite_start]<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/> [cite: 13]
-  [cite_start]<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/> [cite: 13]
-  [cite_start]<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/> [cite: 13]
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
   <br/><br/>
   <strong>Cloud & Infrastructure (AWS):</strong><br/>
-  [cite_start]<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> [cite: 11]
-  [cite_start]<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" alt="EC2"/> [cite: 11]
-  [cite_start]<img src="https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white" alt="ECS"/> [cite: 11]
-  [cite_start]<img src="https://img.shields.io/badge/ECR-FF9900?style=for-the-badge&logo=amazon-ecr&logoColor=white" alt="ECR"/> [cite: 11]
-  [cite_start]<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="S3"/> [cite: 11]
-  [cite_start]<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white" alt="CloudWatch"/> [cite: 11]
-  [cite_start]<img src="https://img.shields.io/badge/IAM-F3A847?style=for-the-badge&logo=amazon-iam&logoColor=white" alt="IAM"/> [cite: 11]
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" alt="EC2"/>
+  <img src="https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white" alt="ECS"/>
+  <img src="https://img.shields.io/badge/ECR-FF9900?style=for-the-badge&logo=amazon-ecr&logoColor=white" alt="ECR"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="S3"/>
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white" alt="CloudWatch"/>
+  <img src="https://img.shields.io/badge/IAM-F3A847?style=for-the-badge&logo=amazon-iam&logoColor=white" alt="IAM"/>
   <br/><br/>
   <strong>Version Control:</strong><br/>
-  [cite_start]<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> [cite: 12]
-  [cite_start]<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> [cite: 12]
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 ---
@@ -96,29 +96,29 @@
   </thead>
   <tbody>
     <tr>
-      [cite_start]<td><strong>CI/CD Pipeline on AWS with Jenkins, Docker & K8s</strong> [cite: 15]</td>
+      <td><strong>CI/CD Pipeline on AWS with Jenkins, Docker & K8s</strong></td>
       <td>
-        [cite_start]• Automated a CI/CD pipeline for cloud-native deployments on AWS[cite: 16].<br>
-        [cite_start]• Deployed a Python application to a Kubernetes cluster on EC2 instances[cite: 17].<br>
-        [cite_start]• Used GitHub Webhooks for production-ready deployments on every commit[cite: 18].
+        • Automated a CI/CD pipeline for cloud-native deployments on AWS.<br>
+        • Deployed a Python application to a Kubernetes cluster on EC2 instances.<br>
+        • Used GitHub Webhooks for production-ready deployments on every commit.
       </td>
-      [cite_start]<td><a href="YOUR_DEMO_LINK_HERE" target="_blank"><strong>View Demo 🎥</strong></a> [cite: 19]</td>
+      <td><a href="YOUR_DEMO_LINK_HERE" target="_blank"><strong>View Demo 🎥</strong></a></td>
     </tr>
     <tr>
-      [cite_start]<td><strong>CI/CD with Jenkins, Minikube & DockerHub</strong> [cite: 20]</td>
+      <td><strong>CI/CD with Jenkins, Minikube & DockerHub</strong></td>
       <td>
-        [cite_start]• Built a fully automated pipeline to build, test, and deploy Dockerized apps[cite: 21].<br>
-        [cite_start]• Deployed to a local Kubernetes cluster using Minikube[cite: 22].<br>
-        [cite_start]• Integrated Git and automated DockerHub image pushes[cite: 23].
+        • Built a fully automated pipeline to build, test, and deploy Dockerized apps.<br>
+        • Deployed to a local Kubernetes cluster using Minikube.<br>
+        • Integrated Git and automated DockerHub image pushes.
       </td>
-      [cite_start]<td><a href="YOUR_DEMO_LINK_HERE" target="_blank"><strong>View Demo 🎥</strong></a> [cite: 24]</td>
+      <td><a href="YOUR_DEMO_LINK_HERE" target="_blank"><strong>View Demo 🎥</strong></a></td>
     </tr>
     <tr>
-      [cite_start]<td><strong>Automated Deployment using AWS Native Tools</strong> [cite: 25]</td>
+      <td><strong>Automated Deployment using AWS Native Tools</strong></td>
       <td>
-        [cite_start]• Built a CI/CD pipeline using AWS CodePipeline, CodeBuild, ECR, and ECS[cite: 26].<br>
-        [cite_start]• Containerized an application for scalable and consistent deployments[cite: 28].<br>
-        [cite_start]• Enabled real-time system monitoring with AWS CloudWatch[cite: 27].
+        • Built a CI/CD pipeline using AWS CodePipeline, CodeBuild, ECR, and ECS.<br>
+        • Containerized an application for scalable and consistent deployments.<br>
+        • Enabled real-time system monitoring with AWS CloudWatch.
       </td>
       <td><strong>N/A</strong></td>
     </tr>
@@ -129,9 +129,9 @@
 
 ### 🏆 Certifications
 
--   [cite_start]📜 **GitHub Professional Certificate** [cite: 30]
--   [cite_start]📜 **Docker Professional Certificate** [cite: 31]
--   [cite_start]📜 **Google Cybersecurity Professional Certificate** [cite: 32]
+-   📜 **GitHub Professional Certificate**
+-   📜 **Docker Professional Certificate**
+-   📜 **Google Cybersecurity Professional Certificate**
 
 <div align="center">
   <br/>
